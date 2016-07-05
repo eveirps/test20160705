@@ -22,7 +22,7 @@ void printElements(const T& a) {
     for (auto e : a)
         cout << e << " ";
     cout << endl;
-    cout << "test version2" << endl;
+    cout << "test_20160705_version3" << endl;
 }
 int main() {
     vector<int> v{ 0, 5, 10, 15, 6, 4, 3 };
